@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/style.css">
+    <title>Alura Geek</title>
+</head>
+<body>
+    <header class="header">
+        <div class="header__contenedor">
+            <img class="header__imagen" src="/assets/avengers_logo.png" alt="logo avengers">
+            <h1>L U R A &nbsp;G E E K</h1>
+        </div>
+    </header>
+
+    <main class="contenedor">
+        <section class="productos">
+            <div>
+                <h1 class="productos__titulo">MIS PRODUCTOS:</h1>
+            </div>
+            <div class="productos__listado" data-lista>
+                
+            </div>
+        </section>
+        <section class="formulario">
+            <h1 class="formulario__titulo">AGREGAR PRODUCTO:</h1>
+            <input class="formulario__input" type="text" placeholder="nombre..." required data-nombre>
+            <input class="formulario__input" type="number" placeholder="precio..." required data-precio>
+            <input class="formulario__input" type="url" placeholder="imagen..." required data-imagen>
+            <div class="botones">
+                <button class="btn__enviar" data-enviar>Enviar</button>
+                <button class="btn__limpiar" data-limpiar>Limpiar</button>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer__contenido">
+            <img class="footer__imagen" src="/assets/corazones.png" alt="Corazones">
+            <h1 class="footer__titulo">AluraGeek</h1>
+        </div>
+        <p class="footer__p1">DESARROLLADO POR MARTIN VELASQUEZ</p>
+        <p class="footer__p2">ALURA LATAM - 2024</p>
+    </footer>
+
+    <script src="./js/mostrarProductos.js" type="module"></script>
+    <script src="./js/crearProducto.js" type="module"></script>
+</body>
+</html>

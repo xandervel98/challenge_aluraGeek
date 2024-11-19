@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Playstation 5",
+      "precio": "499.99",
+      "imagen": "https://plazavea.vteximg.com.br/arquivos/ids/29641804-300-300/image-0.jpg?v=638639349194830000"
+    },
+    {
+      "id": "2",
+      "nombre": "Nintendo Switch",
+      "precio": "300.00",
+      "imagen": "https://rimage.ripley.com.pe/home.ripley/Attachment/MKP/2239/PMP00001262504/full_image-1.jpeg"
+    },
+    {
+      "id": "3",
+      "nombre": "Funko Pop Capitán América",
+      "precio": "20.00",
+      "imagen": "https://funkospace.pe/cdn/shop/files/funkospace-funko-pop-avengers-endgame-captain-america-with-broken-shield-1_580x.jpg?v=1691860468"
+    },
+    {
+      "id": "4",
+      "nombre": "Guantelete del Infinito",
+      "precio": "259.90",
+      "imagen": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/130454986_1/w=1500,h=1500,fit=pad"
+    },
+    {
+      "id": "5",
+      "nombre": "Dualshock 5",
+      "precio": "59.90",
+      "imagen": "https://oechsle.vteximg.com.br/arquivos/ids/2762142-1000-1000/image-8a75e4a4efe84d60bcc87aa765ce37e4.jpg?v=637494980233800000"
+    },
+    {
+      "id": "6",
+      "nombre": "Escudo Capitán América",
+      "precio": "350.90",
+      "imagen": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/132348083_071/w=1500,h=1500,fit=pad"
+    },
+    {
+      "id": "7",
+      "nombre": "Gameboy Advance",
+      "precio": "29.99",
+      "imagen": "https://cdn.milenio.com/uploads/media/2023/03/21/game-boy-advance-especial.jpg"
+    },
+    {
+      "id": "b150",
+      "nombre": "Hoodie Spiderman",
+      "precio": "120.00",
+      "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/56024963362f4ee88c9d627e48015e07_9366/Future_Icons_Spider-Man_Advanced_Hoodie_Red_IM8515_01_laydown.jpg"
+    }
+  ]
+}
